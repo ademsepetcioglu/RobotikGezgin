@@ -1,0 +1,11 @@
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\bin\Debug\RobotikGezgin.exe.config
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\bin\Debug\RobotikGezgin.exe
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\bin\Debug\RobotikGezgin.pdb
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\bin\Debug\Autofac.dll
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\bin\Debug\Autofac.xml
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\obj\Debug\RobotikGezgin.csprojResolveAssemblyReference.cache
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\obj\Debug\RobotikGezgin.exe
+C:\Users\adem.sepetcioglu\Desktop\Projeler\Kurnaz\Kurnaz\Kurnaz-winform\RobotikGezgin\RobotikGezgin\obj\Debug\RobotikGezgin.pdb
+C:\Users\adem.sepetcioglu\Desktop\Projeler\RobotikGezgin\RobotikGezgin\bin\Debug\RobotikGezgin.exe.config
+C:\Users\adem.sepetcioglu\Desktop\Projeler\RobotikGezgin\RobotikGezgin\obj\Debug\RobotikGezgin.exe
+C:\Users\adem.sepetcioglu\Desktop\Projeler\RobotikGezgin\RobotikGezgin\obj\Debug\RobotikGezgin.pdb
